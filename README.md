@@ -26,4 +26,4 @@ Todas as oportunidades serão automáticamente compartilhadas no [@frontendbrvag
  
 ## Licença
 
-[MIT](/LICENSE.md) &copy; FrontendBR
+[MIT](/LICENSE) &copy; FrontendBR
