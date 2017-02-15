@@ -1,6 +1,6 @@
 <img src="https://avatars0.githubusercontent.com/u/6100493?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
 
-# Vagas para desenvolvedores em geral
+# Vagas para desenvolvedores do estado do Paraná
 
 Espaço para a divulgação de vagas para desenvolvedores em geral via _issues_ do Github.
 
