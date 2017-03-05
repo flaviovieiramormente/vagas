@@ -1,4 +1,5 @@
-<img src="https://avatars0.githubusercontent.com/u/6100493?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+<p align="center"><img src="https://avatars0.githubusercontent.com/u/6100493?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+</p>
 
 # Vagas para desenvolvedores do estado do Paraná
 
